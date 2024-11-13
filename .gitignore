@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Debug files
+*.dSYM/
+
+# Kernel Module Compile Results
+*.ko
+
+# build directory
+build/
