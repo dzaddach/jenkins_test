@@ -1,6 +1,7 @@
 #include <iostream>
 
-int main() {
+int main() 
+{
     double num1, num2;
     char operation;
 
